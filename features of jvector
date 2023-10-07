@@ -1,0 +1,19 @@
+
+Features
+
+    JavaScript-based
+
+    jVectorMap uses only native browser technologies like JavaScript, CSS, HTML, SVG or VML. No Flash or any other proprietary browser plug-in is required. This allows jVectorMap to work in all modern mobile browsers.
+    Interactivity
+
+    Using documented API you can handle various events from the map like hovers, clicks, label displaying and customize the behavior of the plug-in.
+    Maps
+
+    Many maps of the world, world regions, countries and cities are available for download from this site. All of them are made from the data in public domain or data licensed under the free licenses, so you can use them for any purpose without of charge.
+    Converter
+
+    Plug-in package includes maps converter written in Python. It's used to create maps available on this site. If you want to create some custom map you can create it using data in common GIS formats like Shapefile for example.
+    Standard compliant
+
+    For identification of the countries and regions ISO 3166 standard is used. So you easily visualize data which is compliant with this standard.
+
